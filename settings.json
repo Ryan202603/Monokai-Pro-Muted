@@ -18,7 +18,6 @@
             "support.macro",
             "meta.function-call.generic.python",
             "support.function.builtin.python",
-            "entity.name",
             "entity.other.attribute-name.class.css",
             "entity.other.attribute-name.parent-selector-suffix.css",
             "entity.other.attribute-name.css",
@@ -50,10 +49,19 @@
             "constant.other",
             "string.unquoted.label",
             "string source",
+            "source.css",
             "text"
           ],
           "settings": {
-            "foreground": "#d9d9d9"
+            "foreground": "#c9c9c9"
+          }
+        },
+        {
+          "scope": [
+            "string.quoted"
+          ],
+          "settings": {
+            "foreground": "#C9975E"
           }
         }
       ]
