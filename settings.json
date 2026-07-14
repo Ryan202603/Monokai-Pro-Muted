@@ -58,7 +58,8 @@
         },
         {
           "scope": [
-            "string.quoted"
+            "string.quoted",
+            "variable.parameter"
           ],
           "settings": {
             "foreground": "#C9975E"
